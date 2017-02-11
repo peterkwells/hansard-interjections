@@ -1,0 +1,8 @@
+dump
+data
+images
+xml
+analysis.py
+credentials.py
+*.pyc
+.DS_Store
